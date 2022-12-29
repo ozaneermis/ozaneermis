@@ -4,9 +4,8 @@
 - 🌱 I’m currently learning Python and Microsoft Power BI
 - 👯 I’m looking to collaborate on Data Science/ Artifical Intelligence Projects
 
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
-  ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+ ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
 
 <!--
