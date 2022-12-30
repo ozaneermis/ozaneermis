@@ -6,9 +6,10 @@ Hi there 👋
 
 ![python](https://img.shields.io/badge/Python-3178C6?style=for-the-badge&logo=Python&logoColor=yellow)
 ![R](https://img.shields.io/badge/R-white?style=for-the-badge&logo=R&logoColor=blue)
-![oracle](https://img.shields.io/badge/oracle-000000?style=for-the-badge&logo=oracle&logoColor=DC0032)
 ![C](https://img.shields.io/badge/C-3178C6?style=for-the-badge&logo=c&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6cc24a?style=for-the-badge&logo=node.js&logoColor=ffffff)
+<!--![oracle](https://img.shields.io/badge/oracle-000000?style=for-the-badge&logo=oracle&logoColor=DC0032)---> 
+
+<!--[Node.js](https://img.shields.io/badge/Node.js-6cc24a?style=for-the-badge&logo=node.js&logoColor=ffffff)---> 
 
 
  
